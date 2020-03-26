@@ -3,7 +3,7 @@
 To monitor your solution's performance, use the Amazon CloudWatch metrics and dimensions for Amazon Translate\.
 
 ## CloudWatch Metrics for Amazon Translate<a name="translate-cloudwatch-metrics"></a>
-
+The AWS/Translate namespace includes the following metrics.
 
 | Metric | Description | 
 | --- | --- | 
